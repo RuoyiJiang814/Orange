@@ -1,2 +1,3 @@
 # Orange
-[OrangeQQ](tencent://message/?uin=31634895&Site= im.qq.com &Menu=yes)
+## Author Information
+[Add author QQ](https://wpa.qq.com/msgrd?v=3&uin=31634895&site=qqq&menu=yes) 
