@@ -1,4 +1,4 @@
-# Orange
+# OrangeAI
 ## Introduction
 OrangeAI training program, now supports verification code recognition training
 
